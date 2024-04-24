@@ -290,7 +290,7 @@ const DirectionScreen = () => {
           <MapViewDirections
             origin={origin}
             destination={destination}
-            apikey="AIzaSyDFKMhw75pTyqq8keyZ3MGvbt-1OHMpY3M"
+            apikey=" "
             strokeWidth={4}
             strokeColor="red"
           />
