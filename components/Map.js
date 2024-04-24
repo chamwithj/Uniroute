@@ -37,7 +37,7 @@ const Map = () => {
 
   //Directions implementation
   const getDirections = async () => {
-    const apiKey = 'AIzaSyDFKMhw75pTyqq8keyZ3MGvbt-1OHMpY3M';
+    const apiKey = '';
     const origin = `${location.coords.latitude},${location.coords.longitude}`;
     const destination = encodeURIComponent(searchQuery);
     const apiUrl = `https://maps.googleapis.com/maps/api/directions/json?origin=${origin}&destination=${destination}&key=${apiKey}`;
