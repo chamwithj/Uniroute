@@ -22,7 +22,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff",
         "package": "com.geocoders.uniroute",
-        "googleMapsApiKey": "AIzaSyDFKMhw75pTyqq8keyZ3MGvbt-1OHMpY3M"
+        "googleMapsApiKey": ""
       },
       "permissions": [
         "android.permission.ACCESS_COARSE_LOCATION",
