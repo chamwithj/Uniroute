@@ -20,7 +20,7 @@ const DirectionScreen = () => {
   const [destination, setDestination] = useState(null);
 
   const faculties = [
-    // Your faculties array here
+    
     {
       id: 1,
       name: 'Faculty of Engineering',
